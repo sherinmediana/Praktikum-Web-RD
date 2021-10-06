@@ -17,6 +17,6 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  : Sherin Mediana Putra
+Nama  : Sherin Mediana Putri
 <br>
 NIM   : 119140050
