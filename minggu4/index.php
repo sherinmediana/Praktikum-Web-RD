@@ -15,7 +15,7 @@
             <div class="col-6">
                 <h2>FORM DATA MAHASISWA</h2>
                 <form action="" method="POST" id="form_mahasiswa">
-                    <label for="id" id="id_label" hidden >id :</label>
+                    <label for="id" id="id_label" hidden >No :</label>
                     <input type="text" name="id" id="id" hidden readonly> <br> <br>
                     <label for="">NIM : </label>
                     <input type="text" name="nim" id=""> <br> <br>
